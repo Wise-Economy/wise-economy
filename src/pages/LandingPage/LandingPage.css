@@ -1,0 +1,8 @@
+.dotsback {
+  background: url("https://github.githubassets.com/images/modules/site/patterns/dots-small.svg");
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
