@@ -1,8 +1,5 @@
 # Wiseeco
 
-<<<<<<< HEAD
-Landing page
-=======
 Wiseeco landing page
 
 # Docker
@@ -39,4 +36,3 @@ npm run build
 npm instal -g serve
 serve -s build -p 3000
 ```
->>>>>>> c33a740... Update readme.
