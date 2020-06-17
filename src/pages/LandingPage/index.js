@@ -21,12 +21,14 @@ function LandingPage() {
         <div className="row justify-content-center justify-content-lg-around align-items-center py-5">
           <div className="col col-md-8 col-lg-6 col-xl-6 py-5">
             <h1 className="display-3">
-              A new era of banking for faster payments
+              Untangling personal finances for global citizens/NRIs.
             </h1>
             <p className="text-secondary">
-              Exchange money with no hidden fees. Buy crypto, gold, and trade
-              stock commission-free from $1. Manage your money with spending
-              analytics. Join over 10 million Wiseeco customers.
+              Manage all your Indian and German bank accounts in a single app.
+              Instant remittance of money to India using the best rates in the
+              market without any hidden charges and fees. Use your credit
+              history in both countries to avail hassle-free, low-interest loans
+              from the banks of your choice.
             </p>
             <Form />
           </div>
@@ -40,38 +42,25 @@ function LandingPage() {
           <div className="cards">
             <div className="card border-0 shadow rounded-lg m-3">
               <div className="card-body">
-                <h4 className="card-title">
-                  Manage your money better with spending analytics
-                </h4>
+                <h4 className="card-title">Manage all your bank accounts</h4>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Set budgets, get instant spending notifications, and see
-                    weekly insights to keep your spending on track
+                    ◘ Managing bank accounts in two countries is not an easy job
+                    and the pain is real. We give you an aggregated view of all
+                    your accounts and a peace of mind.
                   </small>
                 </p>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Connect your other bank accounts to Revolut with Open
-                    Banking and manage all your finances in one place
-                  </small>
-                </p>
-              </div>
-            </div>
-            <div className="card border-0 shadow rounded-lg m-3">
-              <div className="card-body">
-                <h4 className="card-title">Get daily discounts and cashback</h4>
-                <p className="card-text text-secondary">
-                  <small>✔ Save money every day with Perks</small>
-                </p>
-                <p className="card-text text-secondary">
-                  <small>
-                    ✔ Earn rewards you’ll actually use on travel, retail,
-                    restaurants and more
+                    ◘ Check on the up-to-date bank balances, all your
+                    transactions in both countries.
                   </small>
                 </p>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Unlock new offers when you use your Wiseeco cards
+                    ◘ Take advantage of our categorization of your expenses to
+                    set budgets and get analytics driven insights about your
+                    expenditure, loan-payments, credit card billing etc.
                   </small>
                 </p>
               </div>
@@ -79,21 +68,25 @@ function LandingPage() {
             <div className="card border-0 shadow rounded-lg m-3">
               <div className="card-body">
                 <h4 className="card-title">
-                  Send money all over the world instantly, without hidden fees
+                  Instant remittance to any bank account in India
                 </h4>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Send, request money, or split bills with friends and
-                    family instantly, whether they’re across the table or across
-                    the globe
+                    ◘ Remit money using the same app. Initiate the transaction
+                    directly from your German bank account without any charges.
                   </small>
                 </p>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Transfer money abroad in 30 currencies with the interbank
-                    exchange rate, with a small 0.5% fee for anything above
-                    £1,000 each month. A flat mark-up on weekends and on certain
-                    currencies may apply, it’s only fair
+                    ◘ We offer the best rates in the market. We don’t charge you
+                    hefty fees when you send your money to India.
+                  </small>
+                </p>
+                <p className="card-text text-secondary">
+                  <small>
+                    ◘ Money sent from your account will be credited to the
+                    Indian beneficiary in less than an hour. Get notified in the
+                    app when the transaction is completed.
                   </small>
                 </p>
               </div>
@@ -101,25 +94,55 @@ function LandingPage() {
             <div className="card border-0 shadow rounded-lg m-3">
               <div className="card-body">
                 <h4 className="card-title">
-                  Earn daily interest on your savings
+                  Use your credit history in both countries to avail
+                  hassle-free, low-interest loans from the banks you prefer.
                 </h4>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Put your money to work. Get paid daily interest on your
-                    GBP funds
+                    ◘ Indian banks don’t offer non-collateralized loans or high
+                    loan amounts to NRI, even if they do, it’s very
+                    time-consuming and tedious.
                   </small>
                 </p>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ No minimum amounts. Deposit and withdraw your money
-                    whenever you want, with no locking period
+                    ◘ German banks don’t offer the best interest rates when they
+                    offer loans to immigrants because of the lack of credit
+                    history.
                   </small>
                 </p>
                 <p className="card-text text-secondary">
                   <small>
-                    ✔ Round payments and save your spare change, or make a
-                    one-off or recurring transfer. It’s up to you. This is
-                    savings made simple
+                    ◘ We have partnerships with banks in both India & Germany
+                    that can offer better loans by leveraging your credit
+                    history in both countries.
+                  </small>
+                </p>
+              </div>
+            </div>
+            <div className="card border-0 shadow rounded-lg m-3">
+              <div className="card-body">
+                <h4 className="card-title">
+                  We don’t sell your data to ANYONE. Period.
+                </h4>
+                <p className="card-text text-secondary">
+                  <small>
+                    ◘ You completely own your data and we hope to empower you
+                    with it. You can decide to delete all your data with us.
+                  </small>
+                </p>
+                <p className="card-text text-secondary">
+                  <small>
+                    ◘ Your data will be shared with financial institutions of
+                    your choice only if you explicitly give us the consent to
+                    share.
+                  </small>
+                </p>
+                <p className="card-text text-secondary">
+                  <small>
+                    ◘ Your data privacy and security is of utmost importance to
+                    us. We use state-of-the-art encryption technologies to store
+                    your data in your phone as well as in our secured databases.
                   </small>
                 </p>
               </div>
@@ -261,7 +284,7 @@ function Form() {
             disabled={loading}
             className="btn btn-primary mb-3 mb-md-0 font-weight-light shadow d-flex justify-content-center align-items-center"
           >
-            {loading ? "Just a moment ..." : "Get Notified"}
+            {loading ? "Just a moment ..." : "Join Waitlist"}
           </button>
         </div>
       </div>
