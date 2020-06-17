@@ -21,7 +21,7 @@ function LandingPage() {
         <div className="row justify-content-center justify-content-lg-around align-items-center py-5">
           <div className="col col-md-8 col-lg-8 col-xl-8 py-5">
             <h1 className="display-2 font-weight-bold">
-              Untangling personal finances for global citizens/NRIs.
+              Untangling personal finances for global citizens.
             </h1>
             <p className="text-secondary">
               Manage all your Indian and German bank accounts in a single app.
