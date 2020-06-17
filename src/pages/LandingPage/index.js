@@ -19,8 +19,8 @@ function LandingPage() {
       </header>
       <div className="container">
         <div className="row justify-content-center justify-content-lg-around align-items-center py-5">
-          <div className="col col-md-8 col-lg-6 col-xl-6 py-5">
-            <h1 className="display-3">
+          <div className="col col-md-8 col-lg-8 col-xl-8 py-5">
+            <h1 className="display-2 font-weight-bold">
               Untangling personal finances for global citizens/NRIs.
             </h1>
             <p className="text-secondary">
@@ -32,7 +32,7 @@ function LandingPage() {
             </p>
             <Form />
           </div>
-          <div className="col col-lg-6 col-xl-6 py-5 d-none d-lg-block">
+          <div className="col col-lg-4 col-xl-4 py-5 d-none d-lg-block">
             <img className="img-fluid" alt="cheetah" src={Cheetah} />
           </div>
         </div>
