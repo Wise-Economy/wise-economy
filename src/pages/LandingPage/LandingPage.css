@@ -2,7 +2,38 @@
   background: url("https://github.githubassets.com/images/modules/site/patterns/dots-small.svg");
 }
 
-.cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+.phoneXBackground {
+  position: relative;
+  width: 36.25vh;
+  height: 74.37vh;
+  min-width: 350px;
+  max-width: 350px;
+  min-height: 600px;
+  max-height: 600px;
+  margin: auto;
+}
+
+.phoneXBackground::after {
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background-size: contain;
+  background-image: url("https://assets.revolut.com/media/index/iphone_x_bg.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.phone {
+  display: block;
+  max-width: 350px;
+  max-height: 600px;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: -5px;
 }

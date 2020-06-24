@@ -2,6 +2,8 @@ $theme-colors: (
   "primary": #4773af,
 );
 $border-radius: 0.15rem;
+$border-radius-lg: 0.1em;
+$input-focus-box-shadow: none;
 $enable-responsive-font-sizes: true;
 
 @import "./node_modules/bootstrap/scss/bootstrap";
