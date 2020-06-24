@@ -287,7 +287,7 @@ function LandingPage() {
             <img
               className="img-fluid"
               src="https://assets.revolut.com/media/business/landing/features/feature-2.svg"
-              alt="Loans image"
+              alt="Loans"
             />
           </div>
         </div>
