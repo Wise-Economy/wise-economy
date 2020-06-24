@@ -29,6 +29,7 @@ function LandingPage() {
             <img
               className="img-fluid  mx-auto d-block"
               src="https://assets.revolut.com/media/business/landing/iphone.png"
+              alt="Main app screen"
             />
           </div>
         </div>
@@ -114,6 +115,7 @@ function LandingPage() {
             <img
               className="img-fluid"
               src="https://assets.revolut.com/media/business/landing/features/feature-1.svg"
+              alt="All accounts screen"
             />
           </div>
         </div>
@@ -124,6 +126,7 @@ function LandingPage() {
             <img
               className="img-fluid"
               src="https://assets.revolut.com/media/payments/payments-internationsl.svg"
+              alt="Instant remittances"
             />
           </div>
           <div className="col-md order-first order-md-last">
@@ -284,6 +287,7 @@ function LandingPage() {
             <img
               className="img-fluid"
               src="https://assets.revolut.com/media/business/landing/features/feature-2.svg"
+              alt="Loans image"
             />
           </div>
         </div>
@@ -294,6 +298,7 @@ function LandingPage() {
             <img
               className="img-fluid"
               src="https://assets.revolut.com/media/business/landing/features/feature-4.svg"
+              alt="We respect privacy"
             />
           </div>
           <div className="col-md order-first order-md-last">
