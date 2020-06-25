@@ -1,6 +1,6 @@
-# Wiseeco
+# Strabo
 
-Wiseeco landing page
+Strabo landing page
 
 # Docker
 
